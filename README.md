@@ -82,12 +82,7 @@ Leading and contributing to projects like **Secure-Entry** and **Campus-Buddy** 
 ## 📊 GitHub Insights
 
 <div align="center">
-
-![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihal-patidar&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-patidar&layout=compact&theme=radical&cache_seconds=1800&hide_border=true)
-
-
 </div>
 
 <p align="center">
